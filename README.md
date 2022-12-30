@@ -2,16 +2,9 @@
   <img alt="C and C++ Language Course" src="./img/logo.png" />
 </h1>
 
-
 <h1 align="center">Complete C and C++ Language Course - Beginner to Advanced</h1>
 
 ## Description
-
-A course for those who have always dreamed of becoming a programmer, but have never programmed a single line.
-
-The C language is a great language to learn, because most of the high-level languages used today were made based on C, that is, when learning C you will be very easy to learn any other language!
-
-In this course you will learn to create programs with the features:
 
 Course Review "Learn C and C++ - Fundamentals of Logic Programming"
 
@@ -24,14 +17,14 @@ Course Review "Learn C and C++ - Fundamentals of Logic Programming"
 - Create repeating loops (While, For)
 - Use Logical Connectors (AND, OR, NOT)
 - Working with Simple or Compound Conditionals (IF, Switch Case)
-- do math operations
+- Do math operations
 - Use different types of variables (Int, Float, Char, Boolean)
 
-ESSENTIAL
+Essential:
 
 - Review on Defining and Printing Variables
 - Review of Vectors, Matrices and Loops
-- how to use pointers
+- How to use pointers
 - How to clean the screen
 - Use returnless functions
 - Use return functions (Integers, Characters, Booleans)
@@ -41,7 +34,7 @@ ESSENTIAL
 - Build structures (Structs)
 - Reading and Writing to External Files
 
-CREATION OF GAMES
+Creation of Games:
 
 - Creation of Tic-Tac-Tac-Toe, Naval Battle and Hangman
 - Creation of Boards
@@ -51,7 +44,8 @@ CREATION OF GAMES
 - Modify Color in Terminal
 - Play in Doubles
 
-DATA STRUCTURES
+Data Structure:
+
 - Simple Search
 - Binary Search
 - Queue Operations
@@ -63,17 +57,11 @@ DATA STRUCTURES
 - shell sort
 - merge sort
 
-EXTRA COURSE
+Extra Course: 
+- Extra course on Agile Project Management with Scrum.
 
-At the end, you can still take an extra course in Agile Project Management with Scrum, so you can work with bigger projects, manage teams and stand out in the job market!
+What will be learned:
 
-In addition, you will have individual support to answer your questions and answer questionnaires to reinforce your knowledge.
-
-At the end of the course you will receive a certificate.
-
-This course is for beginners, even if they have NEVER PROGRAMMED IN THEIR LIFE.
-
-What will you learn
 - How to develop programs using the C and C++ language
 - Create your own programs using Code::Blocks
 - Use different types of variables (Int, Float, Char, Boolean)
